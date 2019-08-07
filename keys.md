@@ -78,8 +78,7 @@ SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx oracle@redwood
 
 6. You'll see the fingerprint of your ssh key. You'll copy this in the next section.
 
-## Configure up your environment to create the ociatlas
-
+## Configure up your environment 
 1. Copy the terraform.tfvars.example file
 
     ```
